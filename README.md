@@ -1,4 +1,4 @@
-# servion_example
+# servion-vue-example
 Example of using servion project
 
 Create webapp from the scratch
