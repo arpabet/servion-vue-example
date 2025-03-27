@@ -174,7 +174,7 @@ func assetsIndexBnxjxmaiJs() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "assets/index-BnXJXMAI.js", size: 69629, mode: os.FileMode(420), modTime: time.Unix(1742804240, 0)}
+	info := bindataFileInfo{name: "assets/index-BnXJXMAI.js", size: 69629, mode: os.FileMode(420), modTime: time.Unix(1743035467, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -194,7 +194,7 @@ func assetsIndexTxlobewaCss() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "assets/index-TXLObeWa.css", size: 3706, mode: os.FileMode(420), modTime: time.Unix(1742804240, 0)}
+	info := bindataFileInfo{name: "assets/index-TXLObeWa.css", size: 3706, mode: os.FileMode(420), modTime: time.Unix(1743035467, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -214,7 +214,7 @@ func faviconIco() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "favicon.ico", size: 4286, mode: os.FileMode(420), modTime: time.Unix(1742804240, 0)}
+	info := bindataFileInfo{name: "favicon.ico", size: 4286, mode: os.FileMode(420), modTime: time.Unix(1743035466, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -234,7 +234,7 @@ func indexHtml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "index.html", size: 431, mode: os.FileMode(420), modTime: time.Unix(1742804240, 0)}
+	info := bindataFileInfo{name: "index.html", size: 431, mode: os.FileMode(420), modTime: time.Unix(1743035467, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }

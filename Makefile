@@ -9,6 +9,9 @@ version:
 install:
 	go install go.arpabet.com/go-bindata/go-bindata@v1.0.0
 
+generate:
+	npm run build --prefix webapp
+
 bindata:
 	go-bindata -pkg main -o bindata.go -nocompress -nomemcopy -fs -prefix "assets/" assets/...
 
